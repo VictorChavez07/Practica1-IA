@@ -1,9 +1,9 @@
-PWD d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA
+PWD d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex
 INPUT c:/texlive/2019/texmf.cnf
 INPUT c:/texlive/2019/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.tex
-OUTPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.log
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.tex
+OUTPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.log
 INPUT c:/texlive/2019/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 INPUT c:/texlive/2019/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 INPUT c:/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -151,9 +151,9 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/comment/comment.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/comment/comment.sty
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.aux
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.aux
-OUTPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.aux
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.aux
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.aux
+OUTPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.aux
 INPUT c:/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT c:/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT c:/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ppl.fd
@@ -210,14 +210,14 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT c:/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT c:/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out
-OUTPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.pdf
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out
-OUTPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out
+OUTPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.pdf
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out
+OUTPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplrc7t.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplrc7t.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
@@ -292,9 +292,9 @@ INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/adobe/courier/pcrr7t.vf
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.aux
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out
-INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.aux
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out
+INPUT d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out
 INPUT c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.13)  9 MAY 2021 01:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.13)  9 MAY 2021 01:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.tex"
-(d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.tex
+**"d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.tex"
+(d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.tex
 LaTeX2e <2018-12-01>
 (c:/texlive/2019/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
@@ -585,7 +585,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \CommentStream=\write3
  Excluding comment 'comment')
 Package hyperref Info: Option `colorlinks' set `true' on input line 26.
- (d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.aux
+ (d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.aux
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
 )
@@ -696,7 +696,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 35.
 LaTeX Info: Redefining \pageref on input line 35.
 LaTeX Info: Redefining \nameref on input line 35.
- (d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out) (d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.out)
+ (d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out) (d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.out)
 \@outlinefile=\write4
 \openout4 = `Practica1-IA.out'.
 
@@ -817,7 +817,7 @@ Before submitting the final camera ready copy, remember to:
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
 [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
- (d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.aux
+ (d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.aux
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
 )
@@ -828,14 +828,14 @@ Package rerunfilecheck Info: File `Practica1-IA.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10248 strings out of 492623
- 147999 string characters out of 6133290
+ 148077 string characters out of 6133290
  266709 words of memory out of 5000000
  13955 multiletter control sequences out of 15000+600000
  60575 words of font info for 144 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,53p,1006b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,8n,53p,1012b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Practica1-IA.pdf" (3 pages, 99950 bytes).
+Output written on "d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/Probando/Practica1-IA/Latex/Practica1-IA.pdf" (3 pages, 99950 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  146 compressed objects within 2 object streams
